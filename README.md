@@ -32,11 +32,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-## 📈 Aktivite Grafiğim  
+## 📈 My Activity Graph  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=**Zeynep35**&theme=react)  
 
-### **👀 Ziyaretçi Sayacı**  
+### **👀 Visitor Counter**  
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=**Zeynep35**&color=blue)  
 
 
