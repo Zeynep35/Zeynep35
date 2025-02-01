@@ -16,10 +16,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baran-semih-g%c3%bczel-81925a255/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zeynep-k%C4%B1l%C4%B1%C3%A7-015518166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeynep-k%C4%B1l%C4%B1%C3%A7-015518166/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/monolithos19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monolithos19" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vinaya19.efrainno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinaya19.efrainno" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
+  <li><a href="https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
+  <li><a href="https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 
