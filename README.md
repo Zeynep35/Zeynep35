@@ -30,11 +30,9 @@
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zeynep35/Zeynep35/raw/main/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zeynep35/Zeynep35/raw/main/Skills_Animation_White.gif">
-  <img align="left" alt="Skills Animation" src="https://github.com/Zeynep35/Zeynep35/raw/main/Skills_Animation_White.gif">
-</picture>
+
+![Skills Animation](https://github.com/Zeynep35/Zeynep35/blob/main/Skills_Animation_White.gif)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
