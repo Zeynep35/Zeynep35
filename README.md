@@ -2,7 +2,6 @@
 <h3 align="center">I am a junior in artificial intelligence</h3>
 
 
-<p align="left"> <a href="https://github.com/Zeynep35"><img src="https://instagram.fadb3-2.fna.fbcdn.net/v/t51.2885-19/446104029_751922410434969_5015944204891788854_n.jpg?_nc_ht=instagram.fadb3-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=ecltgApmw_EQ7kNvgE1wWkG&_nc_gid=f7eb5ef8031f44989c8358a9afac4905&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AYAQX_tRdmUfuTQdJEbF7ZKaViyJXVouCrjzNNX2QspiUQ&oe=67A1360D&_nc_sid=22de04" width="150" height="150 alt="Zeynep35" /></a> </p>
 
 
 - 🔭 I’m currently working on [Deep learning]
@@ -14,7 +13,7 @@
 - 📫 How to reach me **zeyneplilith.35@gmail.com**
 
   ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Zeynep35)
-  ![GIF]("C:\Users\acer\Desktop\Skills_Animation_White.gif")
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,12 +40,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-## 📈 My Activity Graph  
+![GIF]("C:\Users\acer\Desktop\api\.venv\Skills_Animation_White.gif")
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=**Zeynep35**&theme=react)  
 
-### **👀 Visitor Counter**  
-![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=**Zeynep35**&color=blue)  
+
+
 
 
 
