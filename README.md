@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynep Kılıç</h1>
-<h3 align="center">I am a junior in artificial intelligence</h3>
+<h3 align="center">I am a developer in artificial intelligence</h3>
 
 
 
