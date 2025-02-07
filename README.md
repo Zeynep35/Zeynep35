@@ -17,16 +17,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zeynep-k%C4%B1l%C4%B1%C3%A7-015518166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeynep-k%C4%B1l%C4%B1%C3%A7-015518166/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/monolithos19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monolithos19" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vinaya19.efrainno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinaya19.efrainno" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/zeynep-k%C4%B1l%C4%B1%C3%A7-015518166/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeynep-k%C4%B1l%C4%B1%C3%A7-015518166/" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/monolithos19/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monolithos19" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/vinaya19.efrainno/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinaya19.efrainno" height="30" width="40" />
+  </a>
 </p>
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zeynep35/DEPO_ADI/raw/main/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zeynep35/DEPO_ADI/raw/main/Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="https://github.com/Zeynep35/DEPO_ADI/raw/main/Skills_Animation_White.gif">
 </picture>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,17 +45,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
-<img align="left" alt="GIF description" src="C:\Users\acer\Desktop\api\.venv\Skills_Animation_White.gif" style="visibility:visible;max-width:100%;">
-
-
-
-
-
-
-
-
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeynep35&" alt="Zeynep35" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zeynep35&show_icons=true&locale=en" alt="Zeynep35" /></p>
